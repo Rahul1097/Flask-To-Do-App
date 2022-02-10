@@ -2,7 +2,7 @@
 
 A simple Todo Application using Python-Flask. It provides you feature to add new todos, update existing todos and delete todos.
 
-<img src = ">
+<img src = "https://github.com/Rahul1097/Flask-To-Do-App/blob/master/images/image1.PNG">
 
 # Steps to setup Project on local-
 
